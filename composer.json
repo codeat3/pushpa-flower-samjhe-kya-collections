@@ -1,0 +1,12 @@
+{
+    "name": "codeat3/pusha-samjhe-kya-memes",
+    "require": {
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Swapnil Sarwe",
+            "email": "swapnilsarwe@gmail.com"
+        }
+    ]
+}
