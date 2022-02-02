@@ -16,8 +16,8 @@ Feel free to create an issue if you have any suggestions or questions.
 
 ## Maintainers
 
-Pusha "Flower Samjhe Kya" Meme Collection is developed and maintained by [Swapnil Sarwe](https://swapnilsarwe.com).
+Pushpa "Flower Samjhe Kya" Meme Collection is developed and maintained by [Swapnil Sarwe](https://swapnilsarwe.com).
 
 ## License
 
-Blade Icons Packages Collection is open-sourced software licensed under [the MIT license](LICENSE.md).
+Pushpa "Flower Samjhe Kya" Meme Collection is open-sourced software licensed under [the MIT license](LICENSE.md).
